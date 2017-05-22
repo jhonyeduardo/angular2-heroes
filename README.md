@@ -1,1 +1,4 @@
-# angular2-heroes
+ Para executar a aplicação.
+ 
+ - npm install
+ - npm start
